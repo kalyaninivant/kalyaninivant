@@ -67,6 +67,3 @@ cloud       = ["Oracle Cloud Infrastructure (OCI) — Certified"]
 
 ---
 
-<p align="center">
-  <i>"Building AI that makes medicine more accessible."</i>
-</p>
