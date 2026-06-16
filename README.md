@@ -31,7 +31,7 @@ I'm a final-year B.E. (Electronics & Telecommunication) student at **PICT Pune**
 
 | Project | Description | Tech | Accuracy |
 |---|---|---|---|
-| [🧠 Alzheimer's Detection](https://github.com/kalyaninivant/alzheimer-detection) | Brain MRI classification · 4 severity stages · Grad-CAM | PyTorch · ResNet18 · Grad-CAM | **99.6%** |
+| [🧠 Alzheimer's Detection](https://github.com/kalyaninivant/Alzheimer-s_detection) | Brain MRI classification · 4 severity stages · Grad-CAM | PyTorch · ResNet18 · Grad-CAM | **99.6%** |
 | [👁️ Retinal Disease Classification](https://github.com/kalyaninivant/retinal-disease-classification) | DR · Glaucoma · Normal · Published research | PyTorch · CBAM · SwinL · Gabor | **95.07%** |
 | [🏥 Medical Appointment Platform](https://github.com/kalyaninivant/medical-appointment-platform) | Full-stack clinic management system | Flutter · Firebase · SQL | — |
 
